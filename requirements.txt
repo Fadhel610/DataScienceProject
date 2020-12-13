@@ -1,0 +1,10 @@
+flask
+flask_navigation
+tweepy
+wordcloud
+numpy 
+matplotlib
+re
+nltk.corpus
+PIL
+requests
